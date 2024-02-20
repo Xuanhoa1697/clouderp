@@ -1,10 +1,14 @@
 # Copyright (C) 2021 Artem Shurshilov <shurshilov.a@yandex.ru>
 {
-    "name": "odoo_app_login",
+    "name": "Android App Webview",
     "summary": """""",
-    "author": "xuanhoa1697@gmail.com",
-    "category": "Technical Settings",
-    "version": "14.0.0.0",
+    "author": "Cloud Open Technologies",
+    "category": "Android APK App Mobile Cloud ERP",
+    "version": "17.0.0.0",
     "depends": ["base", "web"],
     "installable": True,
+    'license': 'LGPL-3',
+    'price': 750,
+    'currency': 'EUR',
+    'apkLink': 'https://1drv.ms/u/s!AvqczWuUKhgmgiZp6r5Otu9SYziH?e=kV9xcd'
 }
