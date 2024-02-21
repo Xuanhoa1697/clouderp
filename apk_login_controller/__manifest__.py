@@ -1,6 +1,6 @@
 # Copyright (C) 2021 Artem Shurshilov <shurshilov.a@yandex.ru>
 {
-    "name": "Android App Webview",
+    "name": "Android Mobile App Webview",
     "summary": """""",
     "author": "Cloud Open Technologies",
     "category": "Android APK App Mobile Cloud ERP",
